@@ -14,8 +14,8 @@ En la mayoria de restaurantes se reciben recepciones mediante vía telefónica o
 
 <h1>Solución </h1>
 Realizar una pagina web desde la cual los administradores del restaurante puedan dar la opción a los clientes de reservar vía internet.
-Los administradores podrán:
-1.habilitar que mesas hay disponibles para reservas, en que horarios y su costo.
+Los administradores podrán:<br>
+1.habilitar que mesas hay disponibles para reservas, en que horarios y su costo.<br>
 2.agregar su menú y la posibilidad de hacer su pedido a la mesa en la reservación si lo desea, o pedir en el mismo restaurante desde la página web.
 
 <h1>Los clientes podran:</h1>
