@@ -19,10 +19,10 @@ Los administradores podrán:
 2.agregar su menú y la posibilidad de hacer su pedido a la mesa en la reservación si lo desea, o pedir en el mismo restaurante desde la página web.
 
 <h1>Los clientes podran:</h1>
-Hacer una reservación dentro de el rango de mesas disponibles en un restaurante ya registrado en la pagina.
-1.El cliente debe pagar un monto de dinero para la reservación, dicho monto será impuesto por los administradores de el restaurante.
-2.Si el cliente desea cancelar la reservación deberá hacerlo 1 días antes de la fecha reservada, de lo contrario se generara el costo de la reservación.
-3.Podran hacer una reservación máximo un mes antes.
+Hacer una reservación dentro de el rango de mesas disponibles en un restaurante ya registrado en la pagina.<br>
+1.El cliente debe pagar un monto de dinero para la reservación, dicho monto será impuesto por los administradores de el restaurante.<br>
+2.Si el cliente desea cancelar la reservación deberá hacerlo 1 días antes de la fecha reservada, de lo contrario se generara el costo de la reservación.<br>
+3.Podran hacer una reservación máximo un mes antes.<br>
 4. Podrá hacer el pedido de su comida mediante la página si así lo desea
 
 <h1>Justificación</h1>
